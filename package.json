@@ -1,0 +1,11 @@
+{
+  "name": "RegistrationWebsite",
+  "version": "1.0.0",
+  "main": "index.html",
+  "scripts": {
+    "start": "http-server -c-1 -p 9000"
+  },
+  "dependencies": {
+    "q": "^1.4.1"
+  }
+}
